@@ -1,6 +1,5 @@
 {
   "name": "blogposts",
-  "test":"test1",
   "dependencies": {
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.3",
