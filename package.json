@@ -1,6 +1,5 @@
 {
   "name": "blogposts",
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react-dom": "^16.8.1",
