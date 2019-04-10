@@ -6,7 +6,8 @@
     "redux": "^4.0.1"
   },
   "scripts": {
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "start": "react-scripts run"
   },
   "eslintConfig": {
     "extends": "react-app"
