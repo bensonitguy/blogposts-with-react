@@ -6,7 +6,8 @@
     "redux": "^4.0.1"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "react-script run"
 
   },
   "eslintConfig": {
