@@ -9,7 +9,6 @@
     "test": "mocha",
     "start": "react-scripts run",
     "new":"dummy-task"
-
   },
   "eslintConfig": {
     "extends": "react-app"
